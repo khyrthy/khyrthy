@@ -1,6 +1,9 @@
 # khyrthy
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyrthy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![khyrthy's GitHub stats](https://github-readme-stats.vercel.app/api?username=khyrthy&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
@@ -9,6 +12,7 @@
 Moi, c'est khyrthy. Alors certes, ce n'est pas un pseudonyme facile à prononcer (ça se prononce "kirti"). Je suis un jeune développeur passionné. Mais en dehors de cela, je fais aussi un peu de musique (de temps en temps...), notamment de la Guitare, du Clavier et de la Batterie (sans oublier la boite à rythme :P).
 
 ## Mon parcours
+
 
 J'ai commencé la programmation il y a environ 4 ans, avec cette super plateforme que je recommande à tous les jeunes qui veulent s'intéresser à la programmation mais qui ont peur de se lancer dans un vrai langage de programmation, j'ai nommé : Scratch.
 
@@ -21,6 +25,8 @@ Et me voilà, en 2021, toujours dans le bain inifini du développement. Entre te
 ## Mes projets
 
 Vous pouvez trouver tous mes projets sur mon GitHub ou sur la [page de mon site qui y est dédiée](https://khyrthy.github.io/projects.html)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyrthy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## En dehors du développement
 
