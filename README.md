@@ -13,4 +13,4 @@ En ce moment, je travaille sur [Swap OS](https://github.com/swap-os). C'est un g
 
 Bien évidemment, je poste toutes les updates sur mes projets sur [mon blog](https://khyrthy.github.io).
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khyrthy)](https://github.com/anuraghazra/github-readme-stats)
