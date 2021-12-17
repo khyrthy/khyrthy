@@ -9,7 +9,7 @@ Dans le passé, j'ai beaucoup fait de développement de jeux vidéo. Maintenant,
 
 ## Ce que je fais en ce moment
 
-En ce moment, je travaille sur [Swap OS](https://github.com/swap-os). C'est un gros projet, et j'en suis plutôt fier. Si vous êtes intéressé, vous pouvez rejoindre le [serveur Discord du projet](https://discord.gg/ZBTxRr7JBd).  
+En ce moment, je travaille sur [Crow OS](https://github.com/crowlinux). C'est un gros projet, et j'en suis plutôt fier. Si vous êtes intéressé, vous pouvez rejoindre le [serveur Discord du projet](https://discord.gg/ZBTxRr7JBd).  
 
 Bien évidemment, je poste toutes les updates sur mes projets sur [mon blog](https://khyrthy.github.io).
 
